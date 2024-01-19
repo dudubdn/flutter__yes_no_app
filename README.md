@@ -1,4 +1,4 @@
-# yes_no_app
+# Yes or No App
 
 A Yes No App from DevTalles Flutter Course
 
